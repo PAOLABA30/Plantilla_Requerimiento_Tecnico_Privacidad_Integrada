@@ -1,0 +1,2 @@
+# Plantilla_Requerimiento_Tecnico_Privacidad_Integrada
+Plantilla de Requerimiento Técnico con Privacidad Integrada
