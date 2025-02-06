@@ -28,11 +28,11 @@ Implementar una Privacy-Enhancing Technology (PET) para anonimizar automáticame
 
 ## 5️⃣ Casos de Uso
 ✔ **Caso 1:** Un usuario envía su número de teléfono en el chat.  
-   - Antes: "Mi número es 555-123-4567, llámame."  
+   - Antes: "Mi número es 555-123-400567, llámame."  
    - Después: "Mi número es [NÚMERO TELÉFONO OCULTO], llámame."  
 
 ✔ **Caso 2:** Un usuario comparte su dirección en un mensaje.  
-   - Antes: "Vivo en Calle 45 No. 20-15, Bogotá."  
+   - Antes: "Vivo en Calle 145F No. 2a-15, Bogotá."  
    - Después: "Vivo en [DIRECCIÓN OCULTA]."  
 
 ## 6️⃣ Consideraciones de Seguridad y Privacidad
